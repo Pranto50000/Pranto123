@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 
 const config = {
   birthdate: '02,january, 2023',
-  name: 'Redita Mitu'
+  name: 'Sadika Alam'
 };
 
 function hideEverything() {
